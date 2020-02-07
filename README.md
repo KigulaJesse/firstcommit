@@ -1,10 +1,11 @@
 # firstcommit
 
-## the purpose of this algorithm
+#### the purpose of this algorithm
 This is a deep learning algorithm that takes in images and classifies each image as the type of clothing it is.
 
-###########################
-##describing the code :) 
+#################
+
+## describing the code :) 
 
 dividing by 255.o normalizes the values between zero and one                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
  plt.subplot creates many smaller grids
